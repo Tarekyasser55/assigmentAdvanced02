@@ -146,7 +146,7 @@ static void Main(string[] args)
             //int target = 12;
             //bool found = false;
             //for(int i=0;i<list.Count;i++)
-            //{
+            //{ 
             //    int sum = 0;
             //    for(int j=i;j<list.Count;j++)
             //    {
@@ -167,7 +167,9 @@ static void Main(string[] args)
             //    Console.WriteLine("no found");
             //}
             #endregion
-           
+            #region q11
+            #endregion
+
 
         }
     }
